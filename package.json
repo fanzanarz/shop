@@ -1,0 +1,10 @@
+{
+  "name": "edge-core-resource",
+  "version": "2.4.1",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "install": "node scripts/prepare-build.mjs",
+    "build": "mkdir -p public"
+  }
+}
